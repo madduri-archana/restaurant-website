@@ -1,2 +1,2 @@
 # restaurant-website
-[Your link is here]( https://madduri-archana.github.io/restaurant-website/)
+( https://madduri-archana.github.io/restaurant-website/)
